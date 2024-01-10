@@ -6,7 +6,7 @@
   
 
  .canvas-container {
-    position: absolute;
+    position: absolute !important;
  } 
 .pausePlayBtn  {
     /* width:150px; */
